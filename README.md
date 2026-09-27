@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="128" alt="Suguru Studio"></p>
+
 # Suguru Studio
 
 L'application de Suguru IA pour Windows : chat multi-modèles, agent qui travaille dans tes projets
